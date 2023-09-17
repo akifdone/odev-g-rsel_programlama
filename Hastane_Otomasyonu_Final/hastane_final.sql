@@ -123,7 +123,7 @@ CREATE TABLE `hasta` (
 --
 
 INSERT INTO `hasta` (`hasta_id`, `hasta_tc`, `hasta_ad`, `hasta_soyad`, `hasta_cinsiyeti`, `hasta_kan`, `hasta_dogumYeri`, `hasta_dogumTarihi`, `hasta_babaAdi`, `hasta_anaAdi`, `hasta_tel`, `hasta_posta`, `hasta_parola`, `hasta_adres`) VALUES
-(1, '43243338516', 'Mehmet  Akif ', 'Döne', 'Erkek', 'Arh +', 'Rize', '01.09.2003', 'Selahattin', 'Ummehan', '(530) 647-2153', 'akif.dutge', 12345, 'gebze');
+(1, '33333333', 'Mehmet  Akif ', 'Döne', 'Erkek', 'Arh +', 'Rize', '09.09.2005', 'Ahmet', 'Ummehan', '(530) 647-2153', 'akif.dutge', 12345, 'gebze');
 
 -- --------------------------------------------------------
 
